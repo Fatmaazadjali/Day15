@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.AssemblyInfo.cs
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\Day15 solution\Day15\bin\Debug\net7.0\Day15.exe
+C:\Users\Training\source\repos\Day15 solution\Day15\bin\Debug\net7.0\Day15.deps.json
+C:\Users\Training\source\repos\Day15 solution\Day15\bin\Debug\net7.0\Day15.runtimeconfig.json
+C:\Users\Training\source\repos\Day15 solution\Day15\bin\Debug\net7.0\Day15.dll
+C:\Users\Training\source\repos\Day15 solution\Day15\bin\Debug\net7.0\Day15.pdb
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.dll
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\refint\Day15.dll
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.pdb
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\Day15.genruntimeconfig.cache
+C:\Users\Training\source\repos\Day15 solution\Day15\obj\Debug\net7.0\ref\Day15.dll
